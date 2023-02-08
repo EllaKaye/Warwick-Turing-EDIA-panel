@@ -30,12 +30,17 @@ $presentation-heading-font: Figtree, Helvetica, sans-serif !default;
 //$presentation-heading-color: $ruby;
 $link-color: $sky2;
 $code-color: $ruby2;
+$body-color: $sky;
 
 /*-- scss:rules --*/
 
 // color classes
 .primary {
   color: $primary;
+}
+
+.sky {
+  color: $sky;
 }
 
 // code
@@ -84,7 +89,7 @@ kbd {
 */
 .reveal h2 {
   padding-bottom: 20px;
-  color: $ruby;
+  color: $primary;
 }
 
 .cell {

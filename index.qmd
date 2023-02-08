@@ -7,7 +7,7 @@ date-format: long
 format: 
   revealjs:
     theme: slides.scss
-    slide-number: true
+    slide-number: false
     embed-resources: true
 ---
 
@@ -35,8 +35,24 @@ format:
 
 :::
 
-## Something about EDIA in the RSE community
+## (Part of) the problem
 
+![From [What do we know about DEI in the RSE community?](https://www.youtube.com/watch?v=fegmVl5GnP4), a talk given by Neil Chue Hong at the Lorentz Center workshop "Vive la Differénce - RSEs", based on the paper [Understanding Equity, Diversity and Inclusion Challenges Within the Research Software Community](https://arxiv.org/pdf/2104.01712.pdf).](diversity-percentages.png)
+
+## Why it matters 
+:::{.smaller90}
+Research software typically depends on community involvement for innovation and sustainability. Improved DEI would contribute to expanding the pool of research software contributors, with benefits including:
+
+- Increasing innovation: research has found that diverse teams can improve scientific outputs
+
+- Increasing sustainability: Community engagement is a key part of sustainability, and the open source software community faces challenges in improving DEI
+
+- Decreased duplication of effort and increased reuse of outputs: A stronger, more inclusive community is more likely to work together than to compete
+:::
+
+:::{.smaller70}
+From the [report on Vive la différence - research software engineers](https://zenodo.org/record/6859709#.Y-Omli-l29k).
+:::
 
 # Panel introductions {background-color="#552D62" .middle}
 
@@ -58,31 +74,31 @@ format:
 
 #
 
-:::{.middle .larger200}
-What have been your experiences in RSE or research as members of a under-represented or over-represented communities?
+:::{.middle .larger200 .sky}
+What have been your experiences in RSE or research as members of under-represented or over-represented communities?
 :::
 
 #
 
-:::{.middle .larger200}
+:::{.middle .larger200 .sky}
 What challenges have you faced when pushing for more EDIA in the RSE community? What approaches have you found most promising?
 :::
 
 #
 
-:::{.middle .larger200}
+:::{.middle .larger200 .sky}
 Should all RSEs care about EDIA in the RSE community? Why or why not? 
 :::
 
 # 
 
-:::{.middle .larger200}
+:::{.middle .larger200 .sky}
 Should RSEs engage in EDIA issues in the research projects they are supporting?
 :::
 
 # 
 
-:::{.middle .larger200}
+:::{.middle .larger200 .sky}
 What can the RSE community learn from work in data justice?
 :::
 
