@@ -23,7 +23,7 @@ format:
 
 - Questions from the audience (~15 mins)
 
-# Intro to EDIA {background-color="#552D62"}
+# Intro to EDIA {background-color="#552D62" .middle}
 
 ## 
 :::{.incremental .middle .larger200}
@@ -40,7 +40,7 @@ format:
 ## Something about EDIA in the RSE community
 
 
-# Panel introductions {background-color="#552D62"}
+# Panel introductions {background-color="#552D62" .middle}
 
 ## 
 :::{.middle .larger200}
@@ -56,7 +56,7 @@ format:
 
 :::
 
-# Panel discussion {background-color="#552D62"}
+# Panel discussion {background-color="#552D62" .middle}
 
 #
 
@@ -73,7 +73,7 @@ What challenges have you faced when pushing for more EDIA in the RSE community? 
 #
 
 :::{.middle .larger200}
-Should *all* RSEs care about EDIA in the RSE community? Why or why not? 
+Should all RSEs care about EDIA in the RSE community? Why or why not? 
 :::
 
 # 
@@ -88,4 +88,4 @@ Should RSEs engage in EDIA issues in the research projects they are supporting?
 What can the RSE community learn from work in data justice?
 :::
 
-# Questions from the audience {background-color="#552D62"}
+# Questions from the audience {background-color="#552D62" .middle}
