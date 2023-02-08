@@ -1,0 +1,91 @@
+---
+title: EDIA panel
+title-slide-attributes:
+  data-background-color: "#552D62"
+date: 2023-02-17
+date-format: long
+format: 
+  revealjs:
+    theme: slides.scss
+    slide-number: true
+    execute:
+      echo: true
+      code-overflow: wrap
+---
+
+## Overview
+
+- Very short intro to EDIA (~5 mins)
+
+- Panel introductions (~15 mins)
+
+- Panel discussion (questions on slides) (~25 mins)
+
+- Questions from the audience (~15 mins)
+
+# Intro to EDIA {background-color="#552D62"}
+
+## 
+:::{.incremental .middle .larger200}
+- **E**quality/**E**quity
+
+- **D**iversity
+
+- **I**nclusion
+
+- **A**ccessibility
+
+:::
+
+## Something about EDIA in the RSE community
+
+
+# Panel introductions {background-color="#552D62"}
+
+## 
+:::{.middle .larger200}
+- Tania Allard
+
+- Mike Katell
+
+- Malvika Sharan
+
+- Marion Weinzierl
+
+- Erin Young
+
+:::
+
+# Panel discussion {background-color="#552D62"}
+
+#
+
+:::{.middle .larger200}
+What have been your experiences in RSE or research as members of a under-represented or over-represented communities?
+:::
+
+#
+
+:::{.middle .larger200}
+What challenges have you faced when pushing for more EDIA in the RSE community? What approaches have you found most promising?
+:::
+
+#
+
+:::{.middle .larger200}
+Should *all* RSEs care about EDIA in the RSE community? Why or why not? 
+:::
+
+# 
+
+:::{.middle .larger200}
+Should RSEs engage in EDIA issues in the research projects they are supporting?
+:::
+
+# 
+
+:::{.middle .larger200}
+What can the RSE community learn from work in data justice?
+:::
+
+# Questions from the audience {background-color="#552D62"}

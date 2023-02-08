@@ -1,0 +1,137 @@
+/*-- scss:defaults --*/
+
+
+@import url(https://fonts.googleapis.com/css?family=Fira+Mono&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Figtree:400,600&display=swap);
+
+
+// fonts
+$font-family-sans-serif: Figtree, Helvetica, sans-serif !default;
+$font-family-monospace: "Fira Mono", monospace;
+$headings-font-family: Figtree, Helvetica, sans-serif !default;
+
+//  Warwick colors 
+$aubergine: #552D62;
+$aubergine2: #886C91; //paler
+$ruby: #9A1310;
+$ruby2: #B85A58; //paler
+$sky: #00407A;
+$sky-80: #336695;
+$sky2: #4D79A2; //paler (70)
+$gray: #393A3B;
+$gray2: #747576; //paler
+$gray3: #DDE0E4;
+
+$primary:       $aubergine !default;
+
+$presentation-font-size-root: 32px;
+$code-block-font-size: .55em;
+$presentation-heading-font: Figtree, Helvetica, sans-serif !default;
+//$presentation-heading-color: $ruby;
+$link-color: $sky2;
+$code-color: $ruby2;
+
+/*-- scss:rules --*/
+
+// color classes
+.primary {
+  color: $primary;
+}
+
+// code
+pre.sourceCode {
+  border-radius: 0;
+  border-left-color: $gray;
+  font-size: .7em;
+}
+
+kbd {
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  display: inline-block;
+  padding: 5px 9px;
+  background: linear-gradient(178deg, #fff, #fff, #fff, #ddd);
+}
+
+.middle {
+  text-align: center;
+}
+
+/*
+#title-slide {
+  text-align: left;
+  margin: auto auto 50px auto;
+}
+
+#title-slide .title {
+  font-size: 70px;
+  padding-bottom: .25em;
+}
+
+#title-slide .subtitle {
+  margin-bottom: 6rem;
+}
+
+.reveal .quarto-title-block .quarto-title-authors {
+  display: block;
+}
+
+.reveal .quarto-title-block .quarto-title-authors .quarto-title-author {
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0.5em;
+}
+*/
+.reveal h2 {
+  padding-bottom: 20px;
+  color: $ruby;
+}
+
+.cell {
+  padding-bottom: 20px;
+}
+
+.larger200 {
+  font-size: 200%;
+}
+
+.smaller90 {
+  font-size: 90%;
+}
+
+.smaller80 {
+  font-size: 80%;
+}
+
+.smaller75 {
+  font-size: 75%;
+}
+
+.smaller70 {
+  font-size: 70%;
+}
+
+.smaller60 {
+  font-size: 60%;
+}
+
+.right {
+  text-align: right;  
+}
+
+.reveal .slide figure>figcaption, .reveal .slide img.stretch+p.caption, .reveal .slide img.r-stretch+p.caption {
+  font-size: 0.5em;
+}
+
+.reveal .slides #penguin-slide-text {
+  font-size: 1.6em;
+  font-family: $headings-font-family;
+  font-weight: 600;
+  //margin-top: 200px;
+  vertical-align: top;
+}
+
+.reveal table th, .reveal table td {
+    border-bottom: 1px solid;
+    border-color: $gray3;
+}
