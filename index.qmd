@@ -83,7 +83,7 @@ What have been your experiences in RSE or research as members of under-represent
 #
 
 :::{.middle .larger200}
-What challenges have you faced when pushing for more EDIA in the RSE community? What approaches have you found most promising?
+What challenges have you faced when pushing for more EDIA in the RSE community?
 :::
 
 #
