@@ -1,5 +1,7 @@
 ---
 title: EDIA panel
+subtitle: Warwick-Turing Research Software Engineering in Data & AI Workshop
+author: Ella Kaye (chair)<br>Tania Allard, Mike Katell, Malvika Sharan, Marion Weinzierl, Erin Young (panellists)
 title-slide-attributes:
   data-background-color: "#552D62"
 date: 2023-02-17
@@ -74,32 +76,46 @@ From the [report on Vive la différence - research software engineers](https://z
 
 #
 
-:::{.middle .larger200 .sky}
+:::{.middle .larger200}
 What have been your experiences in RSE or research as members of under-represented or over-represented communities?
 :::
 
 #
 
-:::{.middle .larger200 .sky}
+:::{.middle .larger200}
 What challenges have you faced when pushing for more EDIA in the RSE community? What approaches have you found most promising?
 :::
 
 #
 
-:::{.middle .larger200 .sky}
-Should all RSEs care about EDIA in the RSE community? Why or why not? 
+:::{.middle .larger200}
+Why RSEs should be more attentive and engaged with EDIA in the RSE community
 :::
 
 # 
 
-:::{.middle .larger200 .sky}
-Should RSEs engage in EDIA issues in the research projects they are supporting?
+:::{.middle .larger200}
+How RSEs can engage in EDIA issues in the research projects they are supporting
 :::
 
 # 
 
-:::{.middle .larger200 .sky}
+:::{.middle .larger200}
+What does ‘epistemic justice’ mean for the RSE community and what are some paths to achieving it?
+:::
+
+#
+
+:::{.middle .larger200}
 What can the RSE community learn from work in data justice?
 :::
 
+#
+
+:::{.middle .larger200}
+Positive examples of groups and initiatives where EDIA was improved
+:::
+
 # Questions from the audience {background-color="#552D62" .middle}
+
+# Thank you {background-color="#552D62" .middle}
