@@ -119,3 +119,5 @@ Positive examples of groups and initiatives where EDIA was improved
 # Questions from the audience {background-color="#552D62" .middle}
 
 # Thank you {background-color="#552D62" .middle}
+</br>
+<https://ellakaye.github.io/Warwick-Turing-EDIA-panel>
