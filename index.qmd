@@ -118,6 +118,10 @@ Positive examples of groups and initiatives where EDIA was improved
 
 # Questions from the audience {background-color="#552D62" .middle}
 
+## Further resources
+
+- <https://www.turing.ac.uk/research/research-projects/advancing-data-justice-research-and-practice>
+
 # Thank you {background-color="#552D62" .middle}
 </br>
 <https://ellakaye.github.io/Warwick-Turing-EDIA-panel>
